@@ -1,0 +1,6 @@
+.DS_Store
+__pycache__/
+*.pyc
+# photos et journaux générés par le skill
+_prepared/
+biblioscan-annonces.csv
